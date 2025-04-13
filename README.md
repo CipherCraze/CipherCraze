@@ -31,6 +31,10 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 
 ![CipherCraze's GitHub stats](https://github-readme-stats.vercel.app/api?username=CipherCraze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraze&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CipherCraze&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🤝 Let's Connect
