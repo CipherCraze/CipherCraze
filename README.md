@@ -71,6 +71,6 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
 
 Thanks for stopping by! Feel free to check out my repositories, contribute, or reach out 😊
