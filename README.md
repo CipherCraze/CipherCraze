@@ -41,7 +41,7 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ---
 ### 🔥 Stats
 
-[![Noel's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noelmanoj123&theme=radical&hide_border=true)
+[![CipherCraze's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CipherCraze&theme=radical&hide_border=true)](https://github.com/CipherCraze)
 
 
 ## 🏆 GitHub Trophies
