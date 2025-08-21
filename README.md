@@ -32,11 +32,15 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 
 ## 📊 GitHub Stats
 
-![CipherCraze's GitHub stats](https://github-readme-stats.vercel.app/api?username=CipherCraze\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CipherCraze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraze&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraze\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CipherCraze&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CipherCraze\&theme=tokyonight\&hide_border=true)
 
 ---
 ### 🔥 Stats
@@ -63,7 +67,7 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ## 🤝 Let's Connect
 
 * 📧 **Email:** [noelmanoj5809@gmail.com](mailto:noelmanoj5809@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/noel-manoj-8b3946333](https://www.linkedin.com/in/noel-manoj-8b3946333/)
+* 🔗 **LinkedIn:** [linkedin.com/in/noelmanoj-tech](https://www.linkedin.com/in/noelmanoj-tech/)
 
 ---
 
