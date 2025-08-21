@@ -39,6 +39,10 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CipherCraze\&theme=tokyonight\&hide_border=true)
 
 ---
+### 🔥 Stats
+
+[![Noel's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noelmanoj123&theme=radical&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 
