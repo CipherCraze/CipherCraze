@@ -90,18 +90,21 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CipherCraze&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=CipherCraze&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" />
 </p>
 
 
 ---
 ### 🔥 Stats
 
-[![CipherCraze's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CipherCraze&theme=radical&hide_border=true)](https://github.com/CipherCraze)
+[![CipherCraze's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CipherCraze&theme=tokyonight&hide_border=true)](https://github.com/CipherCraze)
 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=CipherCraze\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CipherCraze&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
