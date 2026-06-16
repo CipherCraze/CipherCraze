@@ -84,7 +84,7 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CipherCraze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CipherCraze&show_icons=true&theme=tokyonight&card_width=500&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraze&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -120,9 +120,11 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 
 ## 🤝 Let's Connect
 
-* 📧 **Email:** [noelmanoj5809@gmail.com](mailto:noelmanoj5809@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/noelmanoj-tech](https://www.linkedin.com/in/noelmanoj-tech/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelmanoj-tech/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CipherCraze)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noel_xx_/)
+![Discord](https://img.shields.io/badge/Discord-noel__36946-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelmanoj5809@gmail.com)
 ---
 
 
