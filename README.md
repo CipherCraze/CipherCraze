@@ -103,7 +103,7 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CipherCraze&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=CipherCraze&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
