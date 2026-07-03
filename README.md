@@ -84,7 +84,7 @@ I'm a passionate **Software Developer** driven by curiosity and creativity. I lo
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CipherCraze&show_icons=true&theme=tokyonight&card_width=500&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=CipherCraze&rank_icon=percentile&show_icons=true&theme=tokyonight&card_width=500&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=CipherCraze&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
